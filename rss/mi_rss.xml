@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- La parte fija del fichero xml correspondiente a un rss -->
+<rss version="2.0">
+  <channel>
+    <title>Mis gatos: Sonqo y Patxi</title>
+    <link>https://diaz-jennifer.github.io/websyp1</link>
+    <description>Publicación sobre mis gatos Sonqo y Patxi y cosas relacionadas que he aprendido con ellos.</description>
+    <!-- La parte fija opcional -->
+    <language>es-ES</language>
+
+    <!-- La parte variable, la que corresponde a cada noticia o ítem -->
+    <item>
+      <title>Cómo llegaron a mi vida</title>
+      <link>https://diaz-jennifer.github.io/websyp1</link>
+      <description>Descripción de cómo llegaron mis gatos a mi vida.</description>
+    </item>
+    <item>
+      <title>Sonqo</title>
+      <link>https://diaz-jennifer.github.io/websyp1/#ancla1</link>
+      <description>Descripción, raza, origen del nombre y personalidad de Sonqo.</description>
+    </item>
+        <item>
+      <title>Patxi</title>
+      <link>https://diaz-jennifer.github.io/websyp1/#ancla2</link>
+      <description>Descripción, raza, origen del nombre y personalidad de Patxi</description>
+    </item>
+         <item>
+      <title>Resumen en tabla</title>
+      <link>https://diaz-jennifer.github.io/websyp1/#ancla3</link>
+      <description>Resumen en tabla de Sonqo y Patxi</description>
+    </item>
+      <item>
+      <title>Salir a pasear con tu gato</title>
+      <link>https://diaz-jennifer.github.io/websyp1/#ancla5</link>
+      <description>Recomendaciones para salir a pasear con tu gato</description>
+    </item>
+      <item>
+      <title>¿Quieres conocer otros gatos paseantes?</title>
+      <link>https://diaz-jennifer.github.io/websyp1/#ancla6</link>
+      <description>Recomendaciones para conocer otros gatos paseantes</description>
+    </item>
+    <item>
+      <title>Presentaciones</title>
+      <link>https://diaz-jennifer.github.io/websyp1/#ancla7</link>
+      <description>Recomendaciones para realizar las presentaciones de gatos.</description>
+    </item>
+      <item>
+      <title>Otros recursos recomendados</title>
+      <link>https://diaz-jennifer.github.io/websyp1/#ancla8</link>
+      <description>Recomendaciones de otros recursos en internet.</description>
+    </item>
+      <item>
+      <title>¿Quieres conocer más de nuestras aventuras?</title>
+      <link>https://diaz-jennifer.github.io/websyp1/#ancla9</link>
+      <description>Fotos y Síguenos en Instagram</description>
+    </item>
+        <item>
+      <title>¿Qué te ha parecido mi web?</title>
+      <link>https://diaz-jennifer.github.io/websyp1/#ancla10</link>
+      <description>Formulario para enviar comentario</description>
+    </item>
+  </channel>
+</rss>
